@@ -1,1 +1,2 @@
-This is python code for writing into files Python is good
+This is python code for writing into files Python is good.
+
